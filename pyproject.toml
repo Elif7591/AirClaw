@@ -1,0 +1,5 @@
+[project]
+name = "airclaw"
+version = "0.1.0"
+description = "Run OpenClaw on a local model. Zero API cost. One OpenAI-compatible endpoint over Ollama, llama.cpp, vLLM or LM Studio — plus AirLLM for models bigger than your GPU."
+requires-python = ">=3.10"
