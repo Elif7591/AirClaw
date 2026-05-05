@@ -5,3 +5,4 @@ description = "Run OpenClaw on a local model. Zero API cost. One OpenAI-compatib
 requires-python = ">=3.10"
 # drop an unused branch
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
